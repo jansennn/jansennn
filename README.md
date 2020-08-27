@@ -1,5 +1,4 @@
 ### Hi there 👋
-a
 
 ### 🌱 My Values
 - 🤔 &mdash; Passionate on Startup culture, “Move Fast and Fix Things", with expertise in Software Architecture, Microservices Architecture and Design, API Development and Android Development. <br> 
@@ -13,7 +12,7 @@ a
 - Blogging and Writing 
 
 ### 📮 Get In Touch!
-- Medium: https://medium.com/@imantumorang
+- Medium: https://medium.com/@jansennn
 - LinkedIn: https://www.linkedin.com/in/andreas-tampubolon-595b8215a/
 
 
