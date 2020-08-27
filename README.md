@@ -1,7 +1,5 @@
 ### Hi there 👋
 a
-<!--
-**jansennn/jansennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### 🌱 My Values
 - 🤔 &mdash; Passionate on Startup culture, “Move Fast and Fix Things", with expertise in Software Architecture, Microservices Architecture and Design, API Development and Android Development. <br> 
@@ -31,4 +29,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
