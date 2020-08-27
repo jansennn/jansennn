@@ -18,7 +18,7 @@
 - LinkedIn: https://www.linkedin.com/in/andreas-tampubolon-595b8215a/
 
 
-
+<!---
 
 Here are some ideas to get you started:
 
@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+-->
