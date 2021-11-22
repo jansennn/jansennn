@@ -3,9 +3,9 @@
 ### Hi there 👋
 
 ### 🌱 My Values
-- 🤔 &mdash; Passionate on Startup culture, “Move Fast and Fix Things", with expertise in Software Architecture, Microservices Architecture and Design, API Development and Android Development. <br> 
+- 🤔 &mdash; Passionate on Startup culture, “Move Fast and Fix Things", with expertise in Software Development, API Development and Web Development. <br> 
 - 😎 &mdash; OSS DNA. <br> ![github stats](https://github-readme-stats.vercel.app/api?username=jansennn&show_icons=true)
-- 📝 &mdash; Blogger, Check my Recent post on Medium! 
+
 
 
 ### 👯 I’m looking to collaborate on
